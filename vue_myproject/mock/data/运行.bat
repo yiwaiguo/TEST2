@@ -1,0 +1,1 @@
+mongoimport --drop -d bss -c books C:\Users\Administrator\Desktop\vue_myproject\mock\data\books.txt
