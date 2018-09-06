@@ -7,7 +7,7 @@
         <el-row>
           <el-col :span="24"><div class="grid-content header">
             <el-row :gutter="20">
-              <el-col :span="6"><div class="grid-content bg-purple"><a href="https://www.baidu.com">turn left</a></div></el-col>
+              <el-col :span="6"><div class="grid-content bg-purple"><a href="https://www.baidu.com">turn</a></div></el-col>
               <el-col :span="6"><div class="grid-content bg-purple"><router-link to="/">to Home</router-link></div></el-col>
               <el-col :span="6"><div class="grid-content bg-purple"><router-link to="/content">to Content</router-link></div></el-col>
               <el-col :span="6"><div class="grid-content bg-purple"></div></el-col>
